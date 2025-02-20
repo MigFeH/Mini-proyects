@@ -32,7 +32,3 @@
   <li>Un editor de texto con selección de archivos por consola</li>
   <li>Buscar un proyecto a desarrollar en C/C++</li>
 </ul>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MigFeH&theme=buefy-dark" alt="Rachas de github" />
-</div>
