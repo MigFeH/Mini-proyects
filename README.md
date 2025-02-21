@@ -1,4 +1,4 @@
-<h1 align="center">Repositorio de mini proyectos personales</h1>
+<h1 align="center">Repositorio de mis mini proyectos personales</h1>
 
 <h2>Terminados ✔️</h2>
 <ul>
